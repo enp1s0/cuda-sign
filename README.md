@@ -9,6 +9,11 @@
 - 分岐を用いたsign関数実装と速度を比較
 - half, float, doubleでテスト
 
+### 実行
+```
+git clone https://gitlab.momo86.net/mutsuki/cuda-sign --recursive
+```
+
 ### 実験環境
 - CUDA 10.0
 - nvprofで実行時間を測定
